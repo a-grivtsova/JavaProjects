@@ -1,0 +1,5 @@
+DRAW = hhg.DRAW
+INIT = hhg.INIT
+MOVE = hhg.MOVE
+TELEPORT = hhg.TELEPORT
+WARD = hhg.WARD
