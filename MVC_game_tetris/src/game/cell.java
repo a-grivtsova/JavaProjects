@@ -1,9 +1,9 @@
-package Game;
+package game;
 
-public class Cell {
+public class cell {
 	int x,y;
 	
-	Cell(int x, int y)
+	cell(int x, int y)
 	{
 		this.x = x;
 		this.y = y;
@@ -14,5 +14,5 @@ public class Cell {
 		this.x = x;
 		this.y = y;
 	}
-
 }
+
