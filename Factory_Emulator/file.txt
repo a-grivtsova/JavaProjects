@@ -1,0 +1,40 @@
+Dealer <1>:Auto <49558813-d15c-41ee-a0a8-25bc13810924> (Body: <fb4cc690-ca29-46d5-8938-2e3670306001>,Motor: <1eabe7be-d13e-46df-ab46-282f096d390d>, Accessory: <e84ec2ea-b33c-44dc-9fac-2047987d4160>)
+
+Dealer <3>:Auto <ef46b6c9-7715-41fd-90e2-529c7fa7f1ff> (Body: <14e959e6-7f81-412b-86a9-2043e5509b1e>,Motor: <8dc4236a-7342-4035-b8e1-2b039ae6b63a>, Accessory: <a8e6fdde-d711-4edc-a1b7-8727a253f8b4>)
+
+Dealer <2>:Auto <39f594f2-468d-4009-a780-db2cabf5031c> (Body: <f0268016-c2d9-4e9d-882f-81e94c28f079>,Motor: <f03e7b35-e582-4e47-b6fb-577e7e6c1ae1>, Accessory: <14a4f7d6-935a-4df1-8f41-0cb9ddeef8e9>)
+
+Dealer <14>:Auto <eb4d22e1-8e9d-4cb3-a9fe-6bdf228ade26> (Body: <bb7c99f7-3c9c-4dc4-bea1-faefc04b0555>,Motor: <ee21c7de-5460-4699-8e50-5a4191cfa7e8>, Accessory: <a91dd34a-4e64-4cd3-b079-fc10af8142f7>)
+
+Dealer <13>:Auto <b973f235-97c9-4ac0-ab86-ae39d49ccac8> (Body: <8119acc9-ec53-4185-925e-df9c208e839b>,Motor: <fe4a207a-142a-41c3-a25c-2358ff001a50>, Accessory: <ad07d49d-ae3f-4c38-8b0f-88b2eaf34dd0>)
+
+Dealer <12>:Auto <2e8f96eb-b84c-4910-925d-392e3d3ba0d8> (Body: <fea59cdd-482d-4439-8e64-5ddc9427c479>,Motor: <51f078ea-eda5-48e6-ab16-3baa6d7b2ed5>, Accessory: <a97b7ec3-866c-41fd-9755-047922045d67>)
+
+Dealer <11>:Auto <fc21fe60-8aa5-4247-afdc-d29dc4f582ac> (Body: <121fe66a-1b7f-4435-b1ca-fcdad0361da2>,Motor: <6b419fe0-cd5f-4a4f-9cd9-f0835c1ebff2>, Accessory: <5b973caa-83ec-4160-8d09-d8d6a66e6798>)
+
+Dealer <10>:Auto <bc9b9cd4-86d7-4d2d-b8e0-c3639b0ea013> (Body: <4e371248-1019-4079-a125-4b0e04ccef4f>,Motor: <ac1bae12-1488-4700-a67d-1d5320250e72>, Accessory: <61375db1-ffa3-4f01-b6c5-267f34467b8b>)
+
+Dealer <9>:Auto <72e99432-42d2-4c41-94d7-1118fb79cfa7> (Body: <48c4887d-3924-404d-b9a5-c9a100792c2e>,Motor: <d337c0db-611f-4ed6-b2c9-409b78b2997d>, Accessory: <2bf31942-010c-4c6a-a40f-322d61edaafe>)
+
+Dealer <15>:Auto <663f9ce3-474d-4772-a3cb-b2e84dcdf987> (Body: <38a42beb-34f8-4461-ae35-10a8847606d3>,Motor: <e8c140db-52c7-4965-9692-e56e18470fbe>, Accessory: <ae96b449-8bd4-4bcd-9467-651aa0e5bc9e>)
+
+Dealer <19>:Auto <5f4f5af7-eceb-4355-89a7-8d936f96c3e0> (Body: <7551bf3a-d142-433c-9f91-a1046683ed4b>,Motor: <cadff95e-535a-4cbd-b370-14b9677fef9f>, Accessory: <2594e4f4-2328-430c-9589-a0f3551493b5>)
+
+Dealer <20>:Auto <a8cb386a-ab42-40d8-b568-5b7f3781f6af> (Body: <6f687cd9-6e01-42f0-93fb-1fd5dd58f67b>,Motor: <27e633db-c09c-4ad2-a9dc-8acd7b3bcd0d>, Accessory: <0485ed5b-e5b4-442e-b83d-7bc93a5afa87>)
+
+Dealer <18>:Auto <32aa30bb-6fe4-407b-bab0-c75ada22f2d3> (Body: <82a83163-0096-4819-883f-b348798f83d5>,Motor: <cfa6ff61-bc2c-4fa1-8453-9afadefd5cc4>, Accessory: <760d5c54-7ed2-4ec0-be81-6d9792f4c84d>)
+
+Dealer <17>:Auto <d04da3f8-84be-4edb-ad36-a6af5c378aff> (Body: <f8bccaa9-6c11-4466-a7d8-1d711335458b>,Motor: <964c1260-5e51-4054-bca9-c596a0c468c1>, Accessory: <59b3ece0-7655-49e7-9fa5-b843a6efa479>)
+
+Dealer <16>:Auto <b8165d32-c07d-4527-896c-c32939d3dd54> (Body: <07932d9d-a56d-4f60-ad35-272b3658bfbe>,Motor: <da814f85-54c6-41bd-bd55-d8ac314d52be>, Accessory: <c09ccdaf-21ad-45e6-a787-dec2c0784e2f>)
+
+Dealer <6>:Auto <7fbd36a0-337c-4b86-921c-694980a331f4> (Body: <fcf28a06-c2ca-41ac-be01-61c24c19b591>,Motor: <c124653a-d292-498e-a52b-ab6de8d2e873>, Accessory: <92690eb7-5020-4885-bfae-962e1852ff81>)
+
+Dealer <8>:Auto <1150ad55-9a75-49fa-81fc-3ddad50d417f> (Body: <ce43c586-74ed-421f-9f9f-b21f19b0a9bb>,Motor: <c418c352-bad1-4182-9979-6e2d677757dc>, Accessory: <33029e09-1d1e-46ba-ba25-68007cd950eb>)
+
+Dealer <7>:Auto <d03c529d-f5b0-4590-a8af-3b5c4fa94585> (Body: <6bb5075c-a51a-4e40-bd3d-2670bfffa9a4>,Motor: <98084d0c-a154-4add-aae9-876a8cacefb9>, Accessory: <ae4b3113-0668-4447-84e4-3f0017b51e34>)
+
+Dealer <5>:Auto <789604a5-9ed1-4a64-98a1-68c7ff389ee4> (Body: <c7a3605e-f859-4db6-b335-a2cd768d1a32>,Motor: <8080467d-169d-494d-b65c-d506d0cecbae>, Accessory: <c624c4b1-aeac-4f4a-884f-2c2d9832382a>)
+
+Dealer <4>:Auto <76115448-7df3-423d-875d-54cc92c6fd83> (Body: <f9bbc477-3aa6-4ed2-8a82-7765916ce451>,Motor: <4ef72fb3-89db-4606-b640-7d13143dcdea>, Accessory: <7e42893e-1a03-4515-a21f-a0a397f322f6>)
+
